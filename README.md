@@ -1,2 +1,4 @@
-# lanyuan-notebook-3.1v
-蓝缘3.1v版本　官网 www.lanyuanoss.com
+SpringMVC4.0 
+Shiro1.2.3 
+Spring4.x 
+Mybaits3.2.8
