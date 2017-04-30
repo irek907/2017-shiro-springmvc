@@ -2,7 +2,7 @@
 	xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/maven-v4_0_0.xsd">
 	<modelVersion>4.0.0</modelVersion>
 	<groupId>com.lanyuan</groupId>
-	<artifactId>lanyuan-notebook-3.1v</artifactId>
+	<artifactId>sys-manage-3.1v</artifactId>
 	<packaging>war</packaging>
 	<version>3.1</version>
 	<name>lanyuan-notebook-3.1v Maven Webapp</name>
